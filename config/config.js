@@ -1,0 +1,1 @@
+module.exports = { "baseDir": "C:\\xuwanwan\\project\\manager-code\\code" };
